@@ -5,9 +5,12 @@
   <artifactId>meronym-utils</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <name>meronym-utils</name>
-  <description>FIXME: write</description>
+  <description>meronym utils</description>
   <scm>
-    <tag>511220c549d430655431257548f9e4a471514bbd</tag>
+    <connection>scm:git:git://github.com/yn/meronym-utils.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/yn/meronym-utils.git</developerConnection>
+    <tag>771c77d3aeaa7a068af964d16ec8401b2fc986e3</tag>
+    <url>https://github.com/yn/meronym-utils</url>
   </scm>
   <build>
     <sourceDirectory>src</sourceDirectory>
@@ -51,6 +54,16 @@
       <groupId>org.clojure</groupId>
       <artifactId>clojure-contrib</artifactId>
       <version>1.2.0</version>
+    </dependency>
+    <dependency>
+      <groupId>org.jsoup</groupId>
+      <artifactId>jsoup</artifactId>
+      <version>1.4.1</version>
+    </dependency>
+    <dependency>
+      <groupId>joda-time</groupId>
+      <artifactId>joda-time</artifactId>
+      <version>1.6.2</version>
     </dependency>
   </dependencies>
 </project>
