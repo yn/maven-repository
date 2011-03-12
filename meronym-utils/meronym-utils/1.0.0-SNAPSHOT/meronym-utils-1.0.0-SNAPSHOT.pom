@@ -9,7 +9,7 @@
   <scm>
     <connection>scm:git:git://github.com/yn/meronym-utils.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/yn/meronym-utils.git</developerConnection>
-    <tag>771c77d3aeaa7a068af964d16ec8401b2fc986e3</tag>
+    <tag>3e97277182355b6f9d74bd7b38510eb9e5295720</tag>
     <url>https://github.com/yn/meronym-utils</url>
   </scm>
   <build>
