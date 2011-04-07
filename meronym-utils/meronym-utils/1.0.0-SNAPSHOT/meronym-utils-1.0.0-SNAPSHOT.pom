@@ -5,11 +5,10 @@
   <artifactId>meronym-utils</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <name>meronym-utils</name>
-  <description>meronym utils</description>
   <scm>
     <connection>scm:git:git://github.com/yn/meronym-utils.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/yn/meronym-utils.git</developerConnection>
-    <tag>3e97277182355b6f9d74bd7b38510eb9e5295720</tag>
+    <tag>0a27ea2c896052ffdbe2af96bbd7cc5f41c20047</tag>
     <url>https://github.com/yn/meronym-utils</url>
   </scm>
   <build>
@@ -48,12 +47,12 @@
     <dependency>
       <groupId>org.clojure</groupId>
       <artifactId>clojure</artifactId>
-      <version>1.2.0</version>
+      <version>1.2.1</version>
     </dependency>
     <dependency>
       <groupId>org.clojure</groupId>
-      <artifactId>clojure-contrib</artifactId>
-      <version>1.2.0</version>
+      <artifactId>data.json</artifactId>
+      <version>0.1.0</version>
     </dependency>
     <dependency>
       <groupId>org.jsoup</groupId>
